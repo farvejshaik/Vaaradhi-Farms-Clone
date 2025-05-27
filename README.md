@@ -3,6 +3,12 @@
 ## Project Overview
 Vaaradhi Farms is an e-commerce platform that specializes in selling natural and organic food products. The website offers a wide range of products including honey, ghee, turmeric, pickles, oils, and more. The site is designed with a focus on user experience, showcasing high-quality product images, customer testimonials, and detailed product information to attract and engage customers.
 
+## 🌐 Live Website
+
+**[Live Demo]([https://aurora-escapes.onrender.com/listings](https://natural-organics-farm.netlify.app/))**
+
+Explore the live deployment to experience all features in action!
+
 ## Features List
 
 ### Header & Navigation
