@@ -5,7 +5,7 @@ Vaaradhi Farms is an e-commerce platform that specializes in selling natural and
 
 ## 🌐 Live Website
 
-**[Live Demo]((https://natural-organics-farm.netlify.app/))**
+**[Live Demo](https://natural-organics-farm.netlify.app/)**
 
 Explore the live deployment to experience all features in action!
 
